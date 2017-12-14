@@ -1,11 +1,15 @@
 {
   "name": "@threadkind/howtonpm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "how to npm exercises",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "author": "threadkind",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "url": "https://github.com/threadkind/FCC-Backend.git"
+  },
+  "dependencies": {}
 }
